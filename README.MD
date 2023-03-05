@@ -1,4 +1,14 @@
 # Fake News Detector
+<p align="center">
+  <a href="/">
+    <img src="https://user-images.githubusercontent.com/83024561/222941995-1d5f7651-31ab-445e-9a92-536100e74cb0.gif"
+         alt="csi_logo" width="500" height="300">
+  </a>
+</p>
+
+
+
+
 
 ### What is Fake News?
 A type of yellow journalism, fake news encapsulates pieces of news that may be hoaxes and is generally spread through social media and other online media. This is often done to further or impose certain ideas and is often achieved with political agendas. Such news items may contain false and/or exaggerated claims, and may end up being viralized by algorithms, and users may end up in a filter bubble.
